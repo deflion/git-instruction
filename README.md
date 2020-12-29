@@ -17,7 +17,7 @@
 
 ### **Установка GIT**
 
-![](https://raw.githubusercontent.com/deflion/git-instruction/main/img/windows_logo.png?token=AFIG5TDE2OGECHXRCDC5MIK75NE6Y "Windows logo") | ![](https://raw.githubusercontent.com/deflion/git-instruction/main/img/ubuntu_logo.png?token=AFIG5TEOJNLVZKJXQNX3XLK75NERU "Ubuntu logo") | ![](https://raw.githubusercontent.com/deflion/git-instruction/main/img/MacOS_wordmark.svg.png?token=AFIG5TH6NLIHJFCOCBDCSXK75NEQG "Mac logo")
+![https://github.com/deflion/sf-git-readmd/blob/main/git-inst-win.md](https://raw.githubusercontent.com/deflion/git-instruction/main/img/windows_logo.png?token=AFIG5TDE2OGECHXRCDC5MIK75NE6Y "Windows logo") | ![](https://raw.githubusercontent.com/deflion/git-instruction/main/img/ubuntu_logo.png?token=AFIG5TEOJNLVZKJXQNX3XLK75NERU "Ubuntu logo") | ![](https://raw.githubusercontent.com/deflion/git-instruction/main/img/MacOS_wordmark.svg.png?token=AFIG5TH6NLIHJFCOCBDCSXK75NEQG "Mac logo")
 ------------- | ------------- | -------------
 [Для Windows](https://github.com/deflion/sf-git-readmd/blob/main/git-inst-win.md)| [Для Linux/Unix](https://github.com/deflion/sf-git-readmd/blob/main/git-inst-unix.md)| [Для MacOS](https://github.com/deflion/sf-git-readmd/blob/main/git-inst-mac.md)
 
