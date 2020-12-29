@@ -17,7 +17,7 @@
 
 ### **Установка GIT**
 
-![](https://github.com/deflion/sf-git-readmd/blob/main/img/windows_logo.png "Windows logo") | ![] | ![]
+![](https://raw.githubusercontent.com/deflion/git-instruction/main/img/windows_logo.png?token=AFIG5TGW3FOL3AH3GS2QKLS75NDH6 "Windows logo") | ![] | ![]
 ------------- | ------------- | -------------
 [Для Windows](https://github.com/deflion/sf-git-readmd/blob/main/git-inst-win.md)| [Для Linux/Unix](https://github.com/deflion/sf-git-readmd/blob/main/git-inst-unix.md)| [Для MacOS](https://github.com/deflion/sf-git-readmd/blob/main/git-inst-mac.md)
 
