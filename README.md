@@ -19,7 +19,7 @@
 
 ![](https://raw.githubusercontent.com/deflion/git-instruction/main/img/windows_logo.png "Windows logo") | ![](https://raw.githubusercontent.com/deflion/git-instruction/main/img/ubuntu_logo.png "Ubuntu logo") | ![](https://raw.githubusercontent.com/deflion/git-instruction/main/img/MacOS_wordmark.svg.png "Mac logo")
 ------------- | ------------- | -------------
-[Для Windows](https://github.com/deflion/sf-git-readmd/blob/main/git-inst-win.md#установка-git-в-windows)| [Для Linux/Unix](https://github.com/deflion/sf-git-readmd/blob/main/git-inst-unix.md#установка-git-в-linux-ubuntu-cli-apt)| [Для MacOS](https://github.com/deflion/sf-git-readmd/blob/main/git-install.md#установка-git-в-macos)
+[Для Windows](https://github.com/deflion/git-instruction/blob/main/git-install.md#установка-git-в-windows)| [Для Linux/Unix](https://github.com/deflion/git-instruction/blob/main/git-install.md#установка-git-в-linux-ubuntu-cli-apt)| [Для MacOS](https://github.com/deflion/git-instruction/blob/main/git-install.md#установка-git-в-macos)
 
  
 **Другие способы установки**
@@ -58,17 +58,18 @@
 
 ## **Регистрация на github.com**
 
-[Продробнее](https://github.com/deflion/sf-git-readmd/blob/main/git-registration.md)
+[Продробнее](https://github.com/deflion/git-instruction/blob/main/git-registration.md)
 
 </br>
 
 ## **Основные операции**
 
-[Продробнее](https://github.com/deflion/sf-git-readmd/blob/main/git-operations.md)
+[Продробнее](https://github.com/deflion/git-instruction/blob/main/git-operations.md)
 
 </br>
 
 ## **Файл .gitignore**
 
-[Продробнее](https://github.com/deflion/sf-git-readmd/blob/main/git-ignore.md)
+[Продробнее](https://github.com/deflion/git-instruction/blob/main/git-ignore.md)
+
 
