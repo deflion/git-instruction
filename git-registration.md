@@ -21,3 +21,5 @@
 
 ![](https://raw.githubusercontent.com/deflion/git-instruction/main/img/git-account.png "Создание репозитория на GitHub со страницы со списком репозиториев")
 *Создание репозитория на GitHub со страницы со списком репозиториев*
+
+[< Назад](https://github.com/deflion/git-instruction#регистрация-на-githubcom)

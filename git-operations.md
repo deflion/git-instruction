@@ -82,4 +82,6 @@ git remote add origin https://github.com/avsudnichnikov/example
 
 ![](https://lms.skillfactory.ru/assets/courseware/v1/70b08bb40326c88141e5e9f4931445a1/asset-v1:SkillFactory+PHP-3.0+2020+type@asset+block/PHP.5.6.4.png "Пример использования команд git log и git show")
 
-<span style="color:#ccc">Пример использования команд *git log* и *git show*</span>
+Пример использования команд *git log* и *git show*
+
+[< Назад](https://github.com/deflion/git-instruction#основные-операции)

@@ -29,4 +29,4 @@
 
 В проекте может быть создано любое количество файлов .gitignore, однако обычно достаточно одного файла в корне проекта.
 
-[< Назад](https://github.com/deflion/git-instruction#файл-.gitignore)
+[< Назад](https://github.com/deflion/git-instruction#файл-gitignore)
